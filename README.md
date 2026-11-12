@@ -24,4 +24,4 @@ The visual direction pairs a warm off-white canvas with purple, orange, and mint
 ## Submission
 
 - `index.html`, `styles.css`, and `script.js` are the complete source.
-- The `screenshots/` directory contains desktop and mobile layout captures.
+- Desktop and mobile layout captures are included with the submission.
